@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mfirmana
-- 👀 I’m interested in reservoir engineering, production engineering, machine learning, and data science
+- 👋 Hi, I’m Muhammad Firman Alamsyah
+- 👀 I’m interested in Oil & Gas industries, machine learning, and data science
 - 🌱 I’m currently learning reservoir simulation and data science
 - 📫 How to reach me mfirmanalamsyah23@gmail.com
 
